@@ -1,0 +1,12 @@
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\bin\Debug\VeteriLife-Prototipo.exe.config
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\bin\Debug\VeteriLife-Prototipo.exe
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\bin\Debug\VeteriLife-Prototipo.pdb
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\bin\Debug\MaterialSkin.dll
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\obj\Debug\VeteriLife-Prototipo.csproj.AssemblyReference.cache
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\obj\Debug\VeteriLife_Prototipo.Form1.resources
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\obj\Debug\VeteriLife_Prototipo.Properties.Resources.resources
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\obj\Debug\VeteriLife-Prototipo.csproj.GenerateResource.cache
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\obj\Debug\VeteriLife-Prototipo.csproj.CoreCompileInputs.cache
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\obj\Debug\VeteriLi.B0260F4C.Up2Date
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\obj\Debug\VeteriLife-Prototipo.exe
+D:\source\repos\VeteriLife-Prototipo\VeteriLife-Prototipo\obj\Debug\VeteriLife-Prototipo.pdb
